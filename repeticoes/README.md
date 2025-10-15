@@ -2,7 +2,7 @@
 
 Esta pasta contém exercícios resolvidos usando estruturas de repetição no VisualG. Os algoritmos aqui ajudam a entender como repetir ações automaticamente — uma base essencial na programação.
 
-## 📌 Exercício 1: Média de 5 números
+## 📌 Exercício 2: Média de 5 números
 
 **Descrição:**  
 Solicita ao usuário que digite 5 números e calcula a média entre eles.
