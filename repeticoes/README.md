@@ -12,7 +12,7 @@ Solicita ao usuário que digite 5 números e calcula a média entre eles.
 - Trabalhar entrada de dados com `leia`
 - Usar variáveis acumuladoras (`soma`) e cálculo de média
 
-**Arquivo:** [`exercicio1.alg`](exercicio1.alg)
+**Arquivo:** [`exercicio2.alg`](exercicio2.alg)
 
 ---
 
