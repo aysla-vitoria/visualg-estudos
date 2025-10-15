@@ -2,6 +2,10 @@
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
+![Feito com VisualG](https://img.shields.io/badge/feito%20com-VisualG-blue)
+![Status](https://img.shields.io/badge/status-em%20constru%C3%A7%C3%A3o-yellow)
+![Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-green)
+
 Este repositório foi criado para organizar meus estudos de lógica de programação usando o VisualG. Aqui você vai encontrar exercícios resolvidos, desafios práticos e materiais de apoio — tudo separado por tema e com explicações.
 
 ---
@@ -48,3 +52,4 @@ Sou Aysla, estudante apaixonada por tecnologia e programação. Este repositóri
 ---
 
 **Obrigada por visitar!** Se quiser contribuir ou deixar sugestões, fique à vontade 💬
+
